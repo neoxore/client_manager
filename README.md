@@ -12,9 +12,9 @@ This is a project to manage client appointments and services.
 ## Installation
 
 1. Clone the repository:
-   ```bash```
+   ```bash
    git clone https://github.com/your_username/my_clients.git
 
 2. Install dependencies:
-    ```bash```
+    ```bash
     pip install -r requirements.txt
